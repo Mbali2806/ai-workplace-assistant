@@ -1,0 +1,11 @@
+# Workplace AI
+
+> AI Workplace Productivity Assistant — automate emails, meeting summaries, planning, research, and chat in one clean SaaS dashboard.
+
+## Pages
+- [Dashboard](/): Overview of all AI productivity tools.
+- [Smart Email Generator](/email): Draft professional emails with structured prompts.
+- [Meeting Notes Summarizer](/meetings): Convert raw notes into decisions and action items.
+- [AI Task Planner](/planner): Break goals into milestones and tasks.
+- [AI Research Assistant](/research): Get balanced briefings on any topic.
+- [AI Chatbot](/chat): Conversational workplace copilot.
