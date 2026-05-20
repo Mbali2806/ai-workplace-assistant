@@ -69,7 +69,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         content:
           "AI Workplace Productivity Assistant: draft emails, summarize meetings, plan tasks, research topics, and chat — all in one clean SaaS dashboard.",
       },
-      { property: "og:title", content: "Workplace AI — Productivity Assistant" },
+      { property: "og:title", content: "Workplace AI — Productivity Assistant for Professionals" },
       {
         property: "og:description",
         content:
@@ -77,6 +77,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "Workplace AI — Productivity Assistant for Professionals" },
+      { name: "description", content: "AI Workplace Assistant automates professional tasks with AI-powered tools for enhanced productivity." },
+      { property: "og:description", content: "AI Workplace Assistant automates professional tasks with AI-powered tools for enhanced productivity." },
+      { name: "twitter:description", content: "AI Workplace Assistant automates professional tasks with AI-powered tools for enhanced productivity." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/6f146848-358f-4d77-8622-d545804fb702/id-preview-9a468783--78c152a7-af28-4293-9920-e6988443b4f0.lovable.app-1779264460227.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/6f146848-358f-4d77-8622-d545804fb702/id-preview-9a468783--78c152a7-af28-4293-9920-e6988443b4f0.lovable.app-1779264460227.png" },
     ],
     links: [{ rel: "stylesheet", href: appCss }],
   }),
